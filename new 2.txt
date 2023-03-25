@@ -1,0 +1,28 @@
+<HTML>
+<HEAD>
+<TITLE>Рассписание занятий 5 классов</TITLE>
+</HEAD>
+<BODY>
+<P ALIGN="CENTER">
+<FONT COLOR="#4B0082" SIZE="6"FACE="ARIAL">
+<B>5 класс</B></FONT><BR></p>
+
+<br>
+<br>
+<br>
+
+
+<TABLE BORDER="1" WIDTH=60% BGCOLOR="#E6E6FA"align="right">
+<TR BGCOLOR="#CCCCFF" ALIGN="CENTER">
+
+<TD><b>Урок</TD> <TD><b>5"A"</TD> <TD><b>5"Б"</TD><TD><b>5"B"</TD>
+</TR>
+
+<TD colspan="4" align="center"><b>Понедельник</TD>
+</TR>
+
+<TD>1</TD><TD>Русский язык </TD><TD>Литература</TD> <TD>История </TD>
+
+</TR>
+
+<TD>2<
